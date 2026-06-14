@@ -22,12 +22,13 @@ workflows:
             echo "APP_APPLE_ID must be configured in Codemagic environment variables."
             exit 1
           fi
+      - name: Generate Flutter iOS Swift Package
+        script: |
+          flutter clean
+          flutter pub get
       - name: Set up code signing settings on Xcode project
         script: |
           xcode-project use-profiles
-      - name: Get Flutter packages
-        script: |
-          flutter pub get
       - name: Install pods
         script: |
           find . -name "Podfile" -execdir pod install \;
