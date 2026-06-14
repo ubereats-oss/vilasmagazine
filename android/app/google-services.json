@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "377790341326-iikkevnp8fhiv5r8al7n2e4vnj18qmab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.salles.vilasmagazine",
+            "certificate_hash": "1671594c0a461d559941ebf5b8977ebc1d20ae66"
+          }
+        },
+        {
           "client_id": "377790341326-96knng1a3o8f9ki8jde0s92uvit2k9bt.apps.googleusercontent.com",
           "client_type": 3
         }
