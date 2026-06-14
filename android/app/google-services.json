@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "377790341326",
+    "project_id": "vilasmagazine-oficial",
+    "storage_bucket": "vilasmagazine-oficial.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377790341326:android:cfa5a0c857f39f0baa309f",
+        "android_client_info": {
+          "package_name": "com.salles.vilasmagazine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377790341326-96knng1a3o8f9ki8jde0s92uvit2k9bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAD6W_XSdhF9v51ilIDPF2o4DBSZWvS_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377790341326-96knng1a3o8f9ki8jde0s92uvit2k9bt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "377790341326-1qnjl2kgmti65tntkeglttr08cf5bede.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.salles.vilasmagazine"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

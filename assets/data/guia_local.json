@@ -1,0 +1,292 @@
+{
+  "categorias": [
+    {
+      "nome": "Alimentação",
+      "icone": "restaurant",
+      "estabelecimentos": [
+        {
+          "nome": "Vilas Bistrô",
+          "endereco": "Av. Praia de Itapuã, 120 - Vilas do Atlântico",
+          "telefone": "(71) 99911-0101",
+          "whatsapp": "71999110101"
+        },
+        {
+          "nome": "Cantinho da Praia",
+          "endereco": "Rua Praia de Guarajuba, 45 - Vilas do Atlântico",
+          "telefone": "(71) 99922-0202",
+          "whatsapp": "71999220202"
+        },
+        {
+          "nome": "Sabores de Lauro",
+          "endereco": "Av. Santos Dumont, 1888 - Centro",
+          "telefone": "(71) 99933-0303",
+          "whatsapp": "71999330303"
+        },
+        {
+          "nome": "Padaria Atlântico",
+          "endereco": "Rua Praia do Forte, 72 - Vilas do Atlântico",
+          "telefone": "(71) 99944-0404",
+          "whatsapp": "71999440404"
+        },
+        {
+          "nome": "Empório Vilas",
+          "endereco": "Av. Luiz Tarquínio, 650 - Pitangueiras",
+          "telefone": "(71) 99955-0505",
+          "whatsapp": "71999550505"
+        }
+      ]
+    },
+    {
+      "nome": "Saúde",
+      "icone": "health",
+      "estabelecimentos": [
+        {
+          "nome": "Clínica Vida Vilas",
+          "endereco": "Rua Praia de Ipitanga, 88 - Vilas do Atlântico",
+          "telefone": "(71) 98811-1101",
+          "whatsapp": "71988111101"
+        },
+        {
+          "nome": "Odonto Atlântico",
+          "endereco": "Av. Praia de Copacabana, 310 - Vilas do Atlântico",
+          "telefone": "(71) 98822-1202",
+          "whatsapp": "71988221202"
+        },
+        {
+          "nome": "Farmácia Praia Norte",
+          "endereco": "Rua Praia de Búzios, 51 - Vilas do Atlântico",
+          "telefone": "(71) 98833-1303",
+          "whatsapp": "71988331303"
+        },
+        {
+          "nome": "Fisio Movimento",
+          "endereco": "Av. Santos Dumont, 2420 - Portão",
+          "telefone": "(71) 98844-1404",
+          "whatsapp": "71988441404"
+        },
+        {
+          "nome": "Laboratório Costa",
+          "endereco": "Rua Cláudio Tinoco, 205 - Centro",
+          "telefone": "(71) 98855-1505",
+          "whatsapp": "71988551505"
+        }
+      ]
+    },
+    {
+      "nome": "Beleza",
+      "icone": "beauty",
+      "estabelecimentos": [
+        {
+          "nome": "Studio Bela Praia",
+          "endereco": "Rua Praia de Pajussara, 34 - Vilas do Atlântico",
+          "telefone": "(71) 97711-2101",
+          "whatsapp": "71977112101"
+        },
+        {
+          "nome": "Barbearia Atlântico",
+          "endereco": "Av. Praia de Itapuã, 410 - Vilas do Atlântico",
+          "telefone": "(71) 97722-2202",
+          "whatsapp": "71977222202"
+        },
+        {
+          "nome": "Essência Estética",
+          "endereco": "Rua Praia de Ondina, 19 - Vilas do Atlântico",
+          "telefone": "(71) 97733-2303",
+          "whatsapp": "71977332303"
+        },
+        {
+          "nome": "Nails Vilas",
+          "endereco": "Av. Luiz Tarquínio, 512 - Pitangueiras",
+          "telefone": "(71) 97744-2404",
+          "whatsapp": "71977442404"
+        },
+        {
+          "nome": "Spa Maré Alta",
+          "endereco": "Rua Praia do Flamengo, 80 - Vilas do Atlântico",
+          "telefone": "(71) 97755-2505",
+          "whatsapp": "71977552505"
+        }
+      ]
+    },
+    {
+      "nome": "Educação",
+      "icone": "education",
+      "estabelecimentos": [
+        {
+          "nome": "Escola Saber Vilas",
+          "endereco": "Rua Praia de Jauá, 215 - Vilas do Atlântico",
+          "telefone": "(71) 96611-3101",
+          "whatsapp": "71966113101"
+        },
+        {
+          "nome": "Curso Norte",
+          "endereco": "Av. Santos Dumont, 1700 - Centro",
+          "telefone": "(71) 96622-3202",
+          "whatsapp": "71966223202"
+        },
+        {
+          "nome": "Berçário Pequenos Vilas",
+          "endereco": "Rua Praia de Taperapuã, 24 - Vilas do Atlântico",
+          "telefone": "(71) 96633-3303",
+          "whatsapp": "71966333303"
+        },
+        {
+          "nome": "Idiomas Atlântico",
+          "endereco": "Av. Praia de Itapuã, 900 - Vilas do Atlântico",
+          "telefone": "(71) 96644-3404",
+          "whatsapp": "71966443404"
+        },
+        {
+          "nome": "Reforço Pitangueiras",
+          "endereco": "Rua Walter da Silva Maia, 66 - Pitangueiras",
+          "telefone": "(71) 96655-3505",
+          "whatsapp": "71966553505"
+        }
+      ]
+    },
+    {
+      "nome": "Imóveis",
+      "icone": "real_estate",
+      "estabelecimentos": [
+        {
+          "nome": "Vilas Imóveis",
+          "endereco": "Av. Praia de Itapuã, 55 - Vilas do Atlântico",
+          "telefone": "(71) 95511-4101",
+          "whatsapp": "71955114101"
+        },
+        {
+          "nome": "Lauro Prime",
+          "endereco": "Av. Santos Dumont, 3200 - Recreio Ipitanga",
+          "telefone": "(71) 95522-4202",
+          "whatsapp": "71955224202"
+        },
+        {
+          "nome": "Costa Norte Corretores",
+          "endereco": "Rua Praia de Ipitanga, 130 - Vilas do Atlântico",
+          "telefone": "(71) 95533-4303",
+          "whatsapp": "71955334303"
+        },
+        {
+          "nome": "Atlântico Administração",
+          "endereco": "Rua Praia de Armação, 18 - Vilas do Atlântico",
+          "telefone": "(71) 95544-4404",
+          "whatsapp": "71955444404"
+        },
+        {
+          "nome": "Casa Bahia Norte",
+          "endereco": "Av. Luiz Tarquínio, 1150 - Pitangueiras",
+          "telefone": "(71) 95555-4505",
+          "whatsapp": "71955554505"
+        }
+      ]
+    },
+    {
+      "nome": "Serviços",
+      "icone": "services",
+      "estabelecimentos": [
+        {
+          "nome": "Resolve Vilas",
+          "endereco": "Rua Praia do Forte, 200 - Vilas do Atlântico",
+          "telefone": "(71) 94411-5101",
+          "whatsapp": "71944115101"
+        },
+        {
+          "nome": "Chaveiro Atlântico",
+          "endereco": "Av. Praia de Itapuã, 68 - Vilas do Atlântico",
+          "telefone": "(71) 94422-5202",
+          "whatsapp": "71944225202"
+        },
+        {
+          "nome": "Express Lavanderia",
+          "endereco": "Rua Praia de Búzios, 77 - Vilas do Atlântico",
+          "telefone": "(71) 94433-5303",
+          "whatsapp": "71944335303"
+        },
+        {
+          "nome": "Manutenção Norte",
+          "endereco": "Av. Santos Dumont, 4010 - Portão",
+          "telefone": "(71) 94444-5404",
+          "whatsapp": "71944445404"
+        },
+        {
+          "nome": "Contábil Lauro",
+          "endereco": "Rua Cláudio Tinoco, 320 - Centro",
+          "telefone": "(71) 94455-5505",
+          "whatsapp": "71944555505"
+        }
+      ]
+    },
+    {
+      "nome": "Comércio",
+      "icone": "commerce",
+      "estabelecimentos": [
+        {
+          "nome": "Mercado Vilas",
+          "endereco": "Rua Praia de Guarajuba, 90 - Vilas do Atlântico",
+          "telefone": "(71) 93311-6101",
+          "whatsapp": "71933116101"
+        },
+        {
+          "nome": "Papelaria Atlântico",
+          "endereco": "Av. Praia de Itapuã, 144 - Vilas do Atlântico",
+          "telefone": "(71) 93322-6202",
+          "whatsapp": "71933226202"
+        },
+        {
+          "nome": "Pet Shop Vilas",
+          "endereco": "Rua Praia de Ipitanga, 41 - Vilas do Atlântico",
+          "telefone": "(71) 93333-6303",
+          "whatsapp": "71933336303"
+        },
+        {
+          "nome": "Moda Costa",
+          "endereco": "Av. Luiz Tarquínio, 900 - Pitangueiras",
+          "telefone": "(71) 93344-6404",
+          "whatsapp": "71933446404"
+        },
+        {
+          "nome": "Casa & Varanda",
+          "endereco": "Av. Santos Dumont, 2600 - Centro",
+          "telefone": "(71) 93355-6505",
+          "whatsapp": "71933556505"
+        }
+      ]
+    },
+    {
+      "nome": "Lazer",
+      "icone": "leisure",
+      "estabelecimentos": [
+        {
+          "nome": "Arena Vilas",
+          "endereco": "Rua Praia de Stella Maris, 12 - Vilas do Atlântico",
+          "telefone": "(71) 92211-7101",
+          "whatsapp": "71922117101"
+        },
+        {
+          "nome": "Escola de Surf Atlântico",
+          "endereco": "Praia de Vilas do Atlântico - Orla",
+          "telefone": "(71) 92222-7202",
+          "whatsapp": "71922227202"
+        },
+        {
+          "nome": "Cine Clube Lauro",
+          "endereco": "Av. Santos Dumont, 2100 - Centro",
+          "telefone": "(71) 92233-7303",
+          "whatsapp": "71922337303"
+        },
+        {
+          "nome": "Kids Park Vilas",
+          "endereco": "Rua Praia do Flamengo, 65 - Vilas do Atlântico",
+          "telefone": "(71) 92244-7404",
+          "whatsapp": "71922447404"
+        },
+        {
+          "nome": "Studio Dança Norte",
+          "endereco": "Av. Luiz Tarquínio, 780 - Pitangueiras",
+          "telefone": "(71) 92255-7505",
+          "whatsapp": "71922557505"
+        }
+      ]
+    }
+  ]
+}
